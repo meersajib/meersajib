@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/meersajib" target="blank"><img src="https://img.shields.io/twitter/follow/meersajib?logo=twitter&style=for-the-badge" alt="meersajib" /></a> </p>
 
-- 🔭 I’m currently working on **Dirayaah Smart Technologies**
+- 🔭 I’m currently working at **Dirayaah Smart Technologies**
 
 - 🌱 I’m currently learning **Nestjs**
 
